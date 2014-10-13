@@ -25,7 +25,7 @@ import org.apache.cordova.CordovaPlugin;
 import org.apache.cordova.CordovaInterface;
 
 public class Immersive extends CordovaPlugin {
-    public static final String TAG = "Device";
+    public static final String LOG_TAG = "Device";
 
     /**
      * Sets the context of the Command. This can then be used to do things like
